@@ -1,0 +1,27 @@
+Doctor_ID,Doctor_Name,Department,Day,Start_Time,End_Time,Room_No
+DOC001,Dr. Arjun Mehta,Cardiology,Monday,10:00 AM,1:00 PM,201
+DOC001,Dr. Arjun Mehta,Cardiology,Wednesday,10:00 AM,1:00 PM,201
+DOC001,Dr. Arjun Mehta,Cardiology,Friday,2:00 PM,5:00 PM,201
+DOC002,Dr. Priya Nair,Cardiology,Tuesday,9:00 AM,12:00 PM,202
+DOC002,Dr. Priya Nair,Cardiology,Thursday,2:00 PM,5:00 PM,202
+DOC002,Dr. Priya Nair,Cardiology,Saturday,9:00 AM,12:00 PM,202
+DOC003,Dr. Rohan Kapoor,Neurology,Monday,2:00 PM,5:00 PM,301
+DOC003,Dr. Rohan Kapoor,Neurology,Thursday,10:00 AM,1:00 PM,301
+DOC004,Dr. Neha Sharma,Neurology,Tuesday,2:00 PM,5:00 PM,302
+DOC004,Dr. Neha Sharma,Neurology,Friday,10:00 AM,1:00 PM,302
+DOC005,Dr. Vikram Rao,Orthopedics,Monday,9:00 AM,12:00 PM,206
+DOC005,Dr. Vikram Rao,Orthopedics,Wednesday,2:00 PM,5:00 PM,206
+DOC005,Dr. Vikram Rao,Orthopedics,Saturday,10:00 AM,1:00 PM,206
+DOC006,Dr. Ananya Iyer,Dermatology,Tuesday,10:00 AM,1:00 PM,105
+DOC006,Dr. Ananya Iyer,Dermatology,Friday,2:00 PM,5:00 PM,105
+DOC007,Dr. Karan Singh,Pediatrics,Monday,10:00 AM,1:00 PM,101
+DOC007,Dr. Karan Singh,Pediatrics,Wednesday,10:00 AM,1:00 PM,101
+DOC007,Dr. Karan Singh,Pediatrics,Saturday,2:00 PM,5:00 PM,101
+DOC008,Dr. Meera Joshi,General Medicine,Monday,8:30 AM,11:30 AM,108
+DOC008,Dr. Meera Joshi,General Medicine,Tuesday,2:00 PM,5:00 PM,108
+DOC008,Dr. Meera Joshi,General Medicine,Thursday,8:30 AM,11:30 AM,108
+DOC008,Dr. Meera Joshi,General Medicine,Saturday,2:00 PM,5:00 PM,108
+DOC009,Dr. Sameer Verma,ENT,Wednesday,2:00 PM,5:00 PM,113
+DOC009,Dr. Sameer Verma,ENT,Saturday,9:00 AM,12:00 PM,113
+DOC010,Dr. Kavya Menon,Gynecology,Tuesday,9:00 AM,12:00 PM,306
+DOC010,Dr. Kavya Menon,Gynecology,Thursday,2:00 PM,5:00 PM,306

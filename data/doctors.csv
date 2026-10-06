@@ -1,0 +1,11 @@
+Doctor_ID,Doctor_Name,Department,Specialization,Room_No,Contact_No
+DOC001,Dr. Arjun Mehta,Cardiology,Cardiologist,201,+91-90000-10001
+DOC002,Dr. Priya Nair,Cardiology,Interventional Cardiologist,202,+91-90000-10002
+DOC003,Dr. Rohan Kapoor,Neurology,Neurologist,301,+91-90000-10003
+DOC004,Dr. Neha Sharma,Neurology,Consultant Neurologist,302,+91-90000-10004
+DOC005,Dr. Vikram Rao,Orthopedics,Orthopedic Surgeon,206,+91-90000-10005
+DOC006,Dr. Ananya Iyer,Dermatology,Dermatologist,105,+91-90000-10006
+DOC007,Dr. Karan Singh,Pediatrics,Pediatrician,101,+91-90000-10007
+DOC008,Dr. Meera Joshi,General Medicine,General Physician,108,+91-90000-10008
+DOC009,Dr. Sameer Verma,ENT,ENT Specialist,113,+91-90000-10009
+DOC010,Dr. Kavya Menon,Gynecology,Gynecologist,306,+91-90000-10010

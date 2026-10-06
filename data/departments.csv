@@ -1,0 +1,9 @@
+Department_ID,Department,Description,Floor,Room_Range
+D001,Cardiology,Heart and cardiovascular care,2nd Floor,201-205
+D002,Neurology,"Brain, spine and nervous system care",3rd Floor,301-305
+D003,Orthopedics,"Bones, joints and musculoskeletal care",2nd Floor,206-210
+D004,Dermatology,"Skin, hair and nail care",1st Floor,105-107
+D005,Pediatrics,Medical care for children,1st Floor,101-104
+D006,General Medicine,General adult medical care,1st Floor,108-112
+D007,ENT,"Ear, nose and throat care",1st Floor,113-115
+D008,Gynecology,Women's reproductive health services,3rd Floor,306-310

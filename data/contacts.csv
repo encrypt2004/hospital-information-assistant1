@@ -1,0 +1,7 @@
+Service,Phone_No,Purpose,Availability
+Appointments,+91-80-4567-8901,Booking and appointment changes,"Monday-Saturday, 8 AM-7 PM"
+Emergency,+91-80-4567-8999,Emergency assistance,24 hours
+Pharmacy,+91-80-4567-8910,Prescription and pharmacy queries,24 hours
+Laboratory,+91-80-4567-8920,Laboratory reports and timings,"Monday-Saturday, 7 AM-8 PM"
+Billing,+91-80-4567-8930,Billing and insurance queries,"Monday-Saturday, 9 AM-6 PM"
+Reception,+91-80-4567-8900,General hospital information,Monday-Sunday
